@@ -13,5 +13,5 @@ Assignment - 6 : ARIMA and ARMA Models
 
 Assignment - 7 : Decision Trees
 
-Assignment -8 : Collabarative Filtering  
+Assignment - 8 : Collabarative Filtering  
 
