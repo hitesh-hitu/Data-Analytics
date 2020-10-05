@@ -11,7 +11,7 @@ Assignment - 5 : Forecasting Techniques - Single , Double and Triple Exponential
 
 Assignment - 6 : ARIMA and ARMA Models
 
-Assignment -7 : Decision Trees
+Assignment - 7 : Decision Trees
 
 Assignment -8 : Collabarative Filtering  
 
