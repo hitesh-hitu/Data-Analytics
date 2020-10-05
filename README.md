@@ -5,7 +5,7 @@ Assignment - 2 : SVD and PCA on Iris Dataset
 
 Assignment - 3 : Logistic Regression on Iris Dataset
 
-Assignment -4 : ETL
+Assignment - 4 : ETL
 
 Assignment -5 : Forecasting Techniques - Single , Double and Triple Exponential Smoothing
 
