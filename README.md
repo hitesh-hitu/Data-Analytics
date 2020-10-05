@@ -7,7 +7,7 @@ Assignment - 3 : Logistic Regression on Iris Dataset
 
 Assignment - 4 : ETL
 
-Assignment -5 : Forecasting Techniques - Single , Double and Triple Exponential Smoothing
+Assignment - 5 : Forecasting Techniques - Single , Double and Triple Exponential Smoothing
 
 Assignment -6 : ARIMA and ARMA Models
 
